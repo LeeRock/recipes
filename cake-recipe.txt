@@ -7,10 +7,17 @@ Ingredients:
  - 1 teaspoon salt
  - 2 eggs
  - 1 cup milk
+<<<<<<< HEAD
+ - 1/2 cup conela oil
+||||||| merged common ancestors
+ - 1/2 cup vegetable oil
+=======
  - 3/4 cup vegetable oil
+>>>>>>> 712849479823634dabfce21bb2fabda9a46af391
  - 2 teaspoons vanilla extract
  - 1 cup boiling water
  - 1 抹茶蛋糕
+ - 1 cup 葵花油
 Directions:
  1. Preheat oven to 350 degrees F. Grease and flour two 9-inch round baking
     pans.
